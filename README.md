@@ -10,7 +10,7 @@ This repo collects my publications, demos, and supporting media which I referenc
 ### 1. Perceived Mental Workload Under Differing Reinforcement Structures in Game-Based Assessment (2025)
 This was my research project for my PGDipSci at AUT, supervised by Kien Tran. 
 
-**➡️ [Read the full PDF](RM_Project_25309063.pdf)**
+**➡️ [Read the full PDF](sha256:8e7149643f30d6892c80b99cfec0e1ce2785609482d25e5dc138eb2aff114362)**
 
 ---
 
