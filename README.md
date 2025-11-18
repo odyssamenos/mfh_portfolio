@@ -18,7 +18,7 @@ This was my research project for my PGDipSci at AUT, supervised by Kien Tran.
 
 Below is a demo video showing the work involved in the study behind the above publication.
 
-[![Demo Video](rmproj_thumbnail.jpg)](https://www.youtube.com/watch?v=azdXSUURv-k)
+[![Demo Video](https://github.com/odyssamenos/mfh_portfolio/releases/download/v1/rmproj_thumbnail.jpg)](https://www.youtube.com/watch?v=azdXSUURv-k)
 
 *Click thumbnail to watch on YouTube (unlisted).*
 
